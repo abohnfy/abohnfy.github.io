@@ -1734,3 +1734,6 @@ body.color-scheme-neue {
     color: #FFF;
     text-shadow: 0 0 10px #000
 }
+body {
+  cursor: url('https://raw.githubusercontent.com/abohnfy/abohnfy.github.io/refs/heads/main/images/icons8-cursor-64.png'), auto;
+}
